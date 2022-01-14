@@ -1,0 +1,230 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+body{
+	font-family:arial;
+	line-height:18px;
+	font-size:14px;
+	color:#333;
+	background:#ECE9D8;
+	
+}
+.tamplate{
+	width:960px;
+	margin:0 auto;
+}
+.clear{
+	overflow:hidden;
+}
+
+.hadersection {
+	height: 100px;
+	background: #333333;
+	
+}
+.header{
+	
+}
+
+.headerleft {
+	width: 440px;
+	color: #fff;
+	float: left;
+}
+.headerleft h2 {
+	font-size: 50px;
+	line-height: 94px;
+	padding-left: 76px;
+}
+
+.headerright {
+	width: 470px;
+	float: right;
+	color: #fff;
+	padding-top: 55px;
+}
+.headerright a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+}
+.headerright a:hover, #active{
+	color:#00ADEF;
+}
+
+.mainsection{
+	background:#fff;
+}
+
+.slogansection {
+	border-bottom: 2px dotted #8E8E8E;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+	padding-bottom: 28px;
+}
+.slogansection h2 {
+	font-size: 45px;
+	line-height: 58px;
+	color: #000;
+}
+.slogansection h3 {
+	font-size: 35px;
+	line-height: 35px;
+	color: #8E8E8E;
+}
+
+.description {
+	margin: 20px;
+	font-size: 26px;
+	line-height: 30px;
+	color: #666;
+	border-bottom: 2px dotted #8E8E8E;
+	padding-bottom: 30px;
+	margin: 50px;
+}
+.description p{}
+
+.contantsection {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.service {
+	background: #00ADEF;
+	width: 210px;
+	float: left;
+	padding: 20px;
+	margin-left: 52px;
+	box-shadow: 3px 3px 0px 0px #CCCCCC;
+}
+.service h2 {
+	font-size: 28px;
+	text-align: center;
+	color: #fff;
+	border-bottom: 1px dotted #fff;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+.service p {
+	color: #fff;
+	font-size: 16px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.readmore {
+	background: #0076a4;
+	text-align: center;
+	padding: 10px;
+	margin-top: 20px;
+}
+.readmore a {
+	color: #ddd;
+	text-decoration: none;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.readmore a:hover {
+	color: yellow;
+}
+
+.mainbottom {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+	border-top: 2px dotted #CCC;
+	padding-top: 30px;
+	border-bottom: 2px dotted #CCC;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+.clintsection {
+	width: 398px;
+	float: left;
+	border-right: 2px dotted #CCCCCC;
+	padding-right: 30px;
+	margin-right: 30px;
+}
+.clintsection h2 {
+	font-size: 25px;
+	color: #666;
+	line-height: 30px;
+}
+
+
+.testimonial {
+	margin-top: 20px;
+}
+.clientimage {
+	float: left;
+	margin-right: 20px;
+	width: 80px;
+}
+.clientimage img {
+	height: 80px;
+	width: 80px;
+}
+
+.clientdesc {
+	float: left;
+	width: 298px;
+}
+.clientdesc p{
+	color:#666;
+}
+.clientdesc a {
+	text-decoration: none;
+	color: #00ADEF;
+}
+.clientdesc a:hover{
+	color:#000;
+}
+.clientname {
+	font-weight: bold;
+	margin-top: 8px;
+}
+
+
+.projectsection {
+	float: right;
+	width: 400px;
+}
+.projectsection h2{
+		font-size: 25px;
+	color: #666;
+	line-height: 30px;
+}
+.projectsection h3 {
+	color: #999;
+	margin-top: 5px;
+	margin-bottom: 8px;
+}
+.projectsection img {
+	width: 400px;
+	margin-bottom: 8px;
+}
+.projectsection p {
+	color: #666;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+.projectsection a {
+	text-decoration: none;
+	font-size: 16px;
+	color: #00ADEF;
+}
+.projectsection a:hover {
+	color: red;
+}
+.footersection{
+	background:#fff;
+}
+.footersection p {
+	color: #999;
+	margin-bottom: 35px;
+	margin-left: 75px;
+}
